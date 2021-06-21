@@ -1,4 +1,11 @@
-### Hi there 👋
+### Howdy Yall 👋
+
+
+- 🔭 I’m currently working exanding my SRE related skills
+- 🌱 I’m currently learning Terraform, Kubernetes, and more modern coding skills
+- 👯 I’m currently part of the K8s-at-home community
+- 💬 Ask me about anything linux related
+- 📫 How to reach me: using my email or on discord.
 
 <!--
 **rwaltr/rwaltr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,7 @@
 ### Howdy Yall 👋
 
 
-- 🔭 I’m currently working exanding my SRE related skills
+- 🔭 I’m currently working expanding my SRE related skills
 - 🌱 I’m currently learning Terraform, Kubernetes, and more modern coding skills
 - 👯 I’m currently part of the K8s-at-home community
 - 💬 Ask me about anything linux related

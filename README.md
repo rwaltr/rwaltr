@@ -1,12 +1,11 @@
 ### Howdy Yall 👋
 
-
 - 🔭 I’m currently working expanding my SRE related skills
 - 🌱 I’m currently learning Terraform, Kubernetes, and modern coding skills
 - 👯 I’m currently part of the K8s-at-home community
 - 💬 Ask me about anything linux related
 - 📫 How to reach me: using my email or on discord.
-![](https://github-readme-stats.vercel.app/api?username=rwaltr&show_icons=true&hide_title=true&theme=solarized-dark&count_private=true&hide=stars)
+  ![](https://github-readme-stats.vercel.app/api?username=rwaltr&show_icons=true&hide_title=true&theme=solarized-dark&count_private=true&hide=stars)
 
 <!--
 **rwaltr/rwaltr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

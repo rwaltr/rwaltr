@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working expanding my SRE related skills
-- 🌱 I’m currently learning Terraform, Kubernetes, and more modern coding skills
+- 🌱 I’m currently learning Terraform, Kubernetes, and modern coding skills
 - 👯 I’m currently part of the K8s-at-home community
 - 💬 Ask me about anything linux related
 - 📫 How to reach me: using my email or on discord.
